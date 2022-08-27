@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:29.90, sizes:['100g', '530g', '860g'], description:' Pizza de Mussarela é coberta com molho de tomate, queijo tipo mussarela, azeitonas pretas e orégano e massa com fermentação natural.'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:29.90, sizes:['320g', '530g', '860g'], description:'É especialmente preparada com recheio generoso de linguiça calabresa de primeira qualidade, queijo muçarela e orégano. A linguiça calabresa agrega um sabor único e levemente picante à pizza.'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:44.90, sizes:['320g', '530g', '860g'], description:'A Pizza 4 Queijos é saborosa, pois é coberta com os deliciosos queijos gorgonzola, parmesão, provolone e mussarela. A massa é fermentada de forma natural.'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:25.90, sizes:['320g', '530g', '860g'], description:'A pizza é fermentada de forma natural, acompanha pimentão, tomates frescos, queijo, pepperoni, totalmente saborosa.'},
+    {id:5, name:'Calabresa e Cheddar', img:'images/pizza5.png', price:39.90, sizes:['320g', '530g', '860g'], description:'Deliciosa pizza de calabresa, azeitonas, cheddar, com fermentação natural.'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:49.90, sizes:['320g', '530g', '860g'], description:'A moda da casa é a pizza mais completa, conta com todos os ingredientes da casa, com recheio de frango e catupiry.'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:35.90, sizes:['320g', '530g', '860g'], description:'A melhor pizza, com a melhor cobertura de chocolate que você já provou.'}
+];
